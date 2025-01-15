@@ -1,6 +1,3 @@
-# hubForum
-Forum hub challenger Alura
-
 # Fórum Hub Challenger Alura - Spring Boot 17
 
 Projeto de fórum onde usuários podem criar e gerenciar postagens.
